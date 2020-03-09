@@ -17,33 +17,6 @@ header {
 	text-align: center;
 	display: block;
 }
-header .profileLogo .logoPlaceholder {
-	background-color: rgba(208,207,207,1.00);
-	width: 187px;
-	text-align: center;
-}
-
-header .profilePhoto {
-	background-color: rgba(237,237,237,1.00);
-	width: 220px;
-	border-radius: 50%;
-	height: 220px;
-	clear: both;
-}
-header .profileHeader h1 {
-	font-family: 'Montserrat', sans-serif;
-/*	color: rgba(146,146,146,1.00);*/
-	font-size: 30px;
-	font-weight: 700;
-	line-height: 24px;
-}
-header .profileHeader h3 {
-	font-family: sans-serif;
-/*	color: rgba(146,146,146,1.00);*/
-	font-size: 16px;
-	font-weight: 700;
-	line-height: 24px;
-}
 hr {
 	background-color: rgba(208,207,207,1.00);
 	height: 1px;
@@ -51,7 +24,6 @@ hr {
 header .profileHeader p {
 	font-family: sans-serif;
 /*	color: rgba(146,146,146,1.00);*/
-	font-size: 14px;
 	font-weight: 400;
 	line-height: 1.8;
 	overflow-y: auto;
@@ -103,16 +75,6 @@ header .socialNetworkNavBar .socialNetworkNav {
 	float: right;
 	margin: 0 10px 10px 0;
 	
-}
-.mainContent .section1 .section1Content {
-	font-family: sans-serif;
-	font-size: 14px;
-	font-weight: 100;
-/*	color: rgba(208,207,207,1.00);*/
-}
-.mainContent .section1 .section1Content span {
-/*	color: rgba(146,146,146,1.00);*/
-	font-family: sans-serif;
 }
 
 .mainContent {
